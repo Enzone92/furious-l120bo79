@@ -1,0 +1,25 @@
+{
+  "name": "@backlight-dev/enzone.furious-l120bo79",
+  "version": "0.1.0",
+  "description": "Furious - a design system based on FAST Frame",
+  "license": "MIT",
+  "repository": "github:divriots/starter-furious",
+  "homepage": "https://backlight.dev/preview/xS11aQmjMLIvr5PU5Mru/",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "serve": "npx backlight@latest serve ckb6r8NCFZvVGccNpdm7 --open"
+  },
+  "dependencies": {
+    "@microsoft/fast-colors": "^5.1.4",
+    "@microsoft/fast-components": "^2.20.2",
+    "@microsoft/fast-element": "^1.7.0",
+    "@microsoft/fast-foundation": "^2.32.3",
+    "@microsoft/fast-web-utilities": "^5.1.0"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.6.4",
+    "prettier": "^2.5.1"
+  }
+}

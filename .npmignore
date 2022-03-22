@@ -1,0 +1,10 @@
+.*
+*/doc/
+*/stories/
+doc-layout/
+dockit/
+live-configurator/
+mdjs.config.*
+studio.config.json
+style.css
+tsconfig.json
